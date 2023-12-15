@@ -7,7 +7,6 @@ const initialState = [
     id:1,
     title:"todo 01",
     description:"Descripcion 01",
-    state: "pendiente",
     priority:false,
     state:true // Cambiamos a un booleano para manejarlo mejor.
   },
@@ -15,7 +14,6 @@ const initialState = [
     id:2,
     title:"todo 02",
     description:"Descripcion 02",
-    state: "pendiente",
     priority:false,
     state:true
   }
